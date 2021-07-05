@@ -218,7 +218,8 @@ caches_layers_enabled=false
 webserver_nginx=true
 ssl=false
 
-nginx_vhost_fragments_to_clear = ["living-atlas.org","auth.living-atlas.org","spatial.living-atlas.org"]
+nginx_vhost_fragments_to_clear =
+nginx_vhost_fragments_to_clear_no_warning = true
 
 ############### Biocache CLI options ###############
 

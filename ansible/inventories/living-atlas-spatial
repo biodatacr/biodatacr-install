@@ -213,3 +213,7 @@ logger_base_url = http://living-atlas.org/logger-service/service
 lists_url = http://living-atlas.org/specieslists
 api_key_check_url_template = https://auth.living-atlas.org/apikey/ws/check?apikey={0}
 biocollect_url =
+
+# Added by MVD
+nginx_vhost_fragments_to_clear =
+nginx_vhost_fragments_to_clear_no_warning = true
