@@ -4,5 +4,5 @@ Este repositorio se creó mediante un *fork* del repositorio [https://github.com
 
 ## Clonación
 ```
-$ git clone --depth 1 --branch v2.0.9 https://github.com/AtlasOfLivingAustralia/ala-install.git
+$ git clone https://github.com/biodatacr/biodatacr-install.git
 ```
