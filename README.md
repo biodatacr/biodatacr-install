@@ -1,8 +1,8 @@
-# Scripts de instalación del portal de datos de BIODATACR
+# BIODATACR installation scripts
 
-Este repositorio se creó mediante un *fork* del repositorio [https://github.com/AtlasOfLivingAustralia/ala-install](https://github.com/AtlasOfLivingAustralia/ala-install) realizado el 2021-07-05.
+This repository is a fork from [https://github.com/AtlasOfLivingAustralia/ala-install](https://github.com/AtlasOfLivingAustralia/ala-install) on 2021-07-05.
 
-## Clonación
+## Clonning
 ```
 $ git clone https://github.com/biodatacr/biodatacr-install.git
 ```
